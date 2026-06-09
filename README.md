@@ -7,8 +7,8 @@
 ## Контакты
 
 - **GitHub:** [github.com/Khanlosan](https://github.com/Khanlosan)
-- **Email:** Muhamed1990@gmail.com
-- **Telegram:** [@ScarFace](https://t.me/ScarFace)
+- **Email:** Muhamed1990kg@gmail.com
+- **Telegram:** [@Unknow7771](https://t.me/Unknow7771)
 - **Локация:** Бишкек
 
 ---
