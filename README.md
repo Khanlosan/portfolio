@@ -1,6 +1,6 @@
 # Muhamed — QA Engineer
 
-> Mobile QA — Android / iOS / Web. Ручное тестирование, автоматизация на Appium + WebdriverIO, анализ APK, написание понятных баг-репортов с воспроизводимыми шагами.
+> Mobile QA — Android / iOS / Web. Ручное тестирование, автоматизация на Appium + WebdriverIO + Playwright (TypeScript), анализ APK, написание понятных баг-репортов с воспроизводимыми шагами.
 
 ---
 
@@ -54,6 +54,7 @@
 - Appium 2 + WebdriverIO + TypeScript
 - UiAutomator2 driver (с учётом ограничений на Flutter)
 - Понимание Flutter Driver / `enableFlutterDriverExtension()` как пути к Flutter-автоматизации
+- Playwright (TypeScript) — автоматизация веб-сценариев: локаторы, авто-ожидания, проверки UI
 
 **Языки и инструменты:**
 - TypeScript / JavaScript (базовый уровень для написания тест-кейсов)
